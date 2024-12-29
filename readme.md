@@ -14,14 +14,13 @@ ChainCollect is a blockchain-powered platform designed to enable secure, transpa
 ---
 
 ## Contract Details
-- **Contract Address:** 0x24DE89949225a6CFBe01d443bF9DB1c0525BC322  
-- **Network:** Neo X Testnet T4  
-
+- **Contract Address:** 0x24DE89949225a6CFBe01d443bF9DB1c0525BC322
+- **Network:** Neo X Mainnet
 ---
 
 ## Deployment
-- **Contract Address:** [View on Neo Explorer](https://xt4scan.ngd.network/address/0x24DE89949225a6CFBe01d443bF9DB1c0525BC322)  
-- **Coin Used:** GAS (Neo X Testnet T4)  
+- **Contract Address:** [View on Neo Explorer](https://xexplorer.neo.org/address/0x24DE89949225a6CFBe01d443bF9DB1c0525BC322)  
+- **Coin Used:** GAS
 
 ---
 
